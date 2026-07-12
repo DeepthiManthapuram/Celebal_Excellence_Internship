@@ -1,0 +1,50 @@
+Python Programming Notes
+
+Python is a high-level programming language.
+
+Data Types
+
+- int
+- float
+- string
+- list
+- tuple
+- dictionary
+- set
+
+Loops
+
+for loop
+while loop
+
+Conditional Statements
+
+if
+elif
+else
+
+Functions
+
+Functions help organize code.
+
+Example:
+
+def add(a, b):
+    return a + b
+
+Object-Oriented Programming
+
+- Class
+- Object
+- Inheritance
+- Polymorphism
+- Encapsulation
+- Abstraction
+
+Popular Libraries
+
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- TensorFlow

@@ -1,0 +1,49 @@
+John Smith
+
+Email: johnsmith@email.com
+Phone: +1 9876543210
+
+Professional Summary
+
+A Computer Science graduate with strong knowledge of Python, SQL, Machine Learning, Data Analysis, and Web Development. Passionate about Artificial Intelligence and Data Science.
+
+Education
+
+Bachelor of Technology in Computer Science
+XYZ University
+Graduated: 2024
+
+Technical Skills
+
+Programming Languages:
+- Python
+- Javac
+- C++
+
+Databases:
+- SQL
+- MongoDB
+
+Web Technologies:
+- HTML
+- CSS
+- JavaScript
+- React
+
+Machine Learning:
+- Scikit-learn
+- Pandas
+- NumPy
+
+Projects
+
+1. Student Management System
+Built using Python and SQLite.
+
+2. Loan Prediction System
+Developed a Machine Learning model using Logistic Regression.
+
+Certifications
+
+- Python Programming
+- Machine Learning Fundamentals

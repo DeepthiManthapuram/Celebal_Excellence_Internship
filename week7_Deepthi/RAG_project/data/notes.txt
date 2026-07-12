@@ -1,0 +1,32 @@
+Machine Learning Notes
+
+Machine Learning is a branch of Artificial Intelligence.
+
+Types of Machine Learning:
+
+1. Supervised Learning
+- Classification
+- Regression
+
+2. Unsupervised Learning
+- Clustering
+- Association
+
+3. Reinforcement Learning
+
+Common Algorithms
+
+- Linear Regression
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- Support Vector Machine
+- K-Means Clustering
+
+Evaluation Metrics
+
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+- ROC-AUC

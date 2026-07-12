@@ -1,0 +1,27 @@
+
+===============================
+RAG SYSTEM METRICS REPORT
+===============================
+
+Documents Loaded : 4
+
+Chunks Created : 4
+
+Chunk Size : 500
+
+Chunk Overlap : 100
+
+Embedding Model :
+sentence-transformers/all-MiniLM-L6-v2
+
+Embedding Dimension :
+384
+
+Vector Database :
+FAISS
+
+Similarity Search :
+Top K = 3
+
+Status :
+SUCCESS
